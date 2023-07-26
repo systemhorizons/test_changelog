@@ -7,12 +7,12 @@ and this project adheres to the Backdrop Version Standard
 
 ## [Unreleased]
 
-## [1.x-1.0.1] - 2023-07-26
+## [1.0.1] - 2023-07-26
 
 ### Added
 - Add test.php
 
-## [1.x-1.0.0] - 2023-03-05
+## [1.0.0] - 2023-03-05
 
 ### Added
 - added readme
