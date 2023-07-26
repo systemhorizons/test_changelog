@@ -7,6 +7,11 @@ and this project adheres to the Backdrop Version Standard
 
 ## [Unreleased]
 
+## [1.x-1.0.2] - 2023-07-26
+
+### Changed
+- Updated README
+
 ## [1.x-1.0.1] - 2023-07-26
 
 ### Added
@@ -18,5 +23,6 @@ and this project adheres to the Backdrop Version Standard
 - added readme
 - added changelog
 
-[Unreleased]: https://github.com/systemhorizons/test_changelog/compare/1.x-1.0.1...HEAD
+[Unreleased]: https://github.com/systemhorizons/test_changelog/compare/1.x-1.0.2...HEAD
+[1.x-1.0.2]: https://github.com/systemhorizons/test_changelog/compare/1.x-1.0.1...1.x-1.0.2
 [1.x-1.0.1]: https://github.com/systemhorizons/test_changelog/compare/1.x-1.0.0...1.x-1.0.1
